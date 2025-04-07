@@ -31,6 +31,8 @@ Click the Calculate button.
 
 View the calculated EMI
 
+Project Live Link : https://emicalculator30.netlify.app/
+
 
 Author
 
